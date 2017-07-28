@@ -1,0 +1,50 @@
+L1 = 75 MARKS(75 QUESTIONS)
+SIMPLE QUESTIONS=60%-->45QUESTIONS
+COMPLEX=40%-->30 QUESTIONS
+MODULE1-------->
+================
+PSUEDOCODE 			= 3 QUES
+ORACLE(SQL,PL/SQL) 		= 11 QUES
+UNIX 				= 4 QUES
+********************************************
+TOTAL 				= 18 QUES
+********************************************
+MODULE2----->
+=========
+JAVA 				= 5 QUES
+LANGUAGE FUNDAMENTALS
+(BASIC QUES JAVA OR ORACLE) 	= 4 QUES
+REPORTS 			= 7 QUES
+FORMS 				= 11 QUES
+********************************************
+TOTAL				= 27 QUES
+********************************************
+MODULE3------->
+=========
+ERP 				= 1 QUES
+ORAAPPS ARCHITECTURE 		= 2 QUES
+ORAPPS PART1 			= 9 QUES
+********************************************
+TOTAL 				= 12 QUES
+********************************************
+MODULE4------->
+========
+ORAAPPS PART2 			= 7 QUES
+WORKFLOW 			= 2 QUES
+METHODOLOGY AND STANDARDS 	= 1 QUES
+INTRODUCTION TO R12 		= 1 QUES
+SCM FINANCIALS 			= 2 QUES
+SOFTWARE ENGINEERING 		= 3 QUES
+QPA 				= 2 QUES
+*******************************************
+TOTAL 				= 18 QUES
+*******************************************
+=================
+GRAND TOTAL------------------->= 75 QUESTIONS
+
+
+                   ***ALL THE BEST***
+
+
+
+

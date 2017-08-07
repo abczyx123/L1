@@ -1,0 +1,22 @@
+L1 Ora Apps Mock Test Set 1
+====================================
+TOTAL=75M
+====================================
+Java------------------------------->3
+Oracle Forms and Reports----------->15*
+Ora Apps Part I-------------------->13*
+ERP Overview----------------------->1
+Ora Apps Part II------------------->18*
+SCM and Financials----------------->3
+XML Publisher Basics--------------->1
+Intro to SE------------------------>5*
+PF with Pseudocode----------------->3
+Oracle Advanced-------------------->9*
+Unix------------------------------->4*
+====================================
+Duration	135 minutes
+Passing Percentage	NA
+Type	Objective
+No of attempts allowed	1
+Negative marking(%)	NA
+Resume Capability	Yes
